@@ -2,7 +2,7 @@
 This is stack realization on cplusplus
 
 ## Description
-if you don't specify anything in the constructor, the stack size will be 255
+if you do not specify the stack size in the constructor, it will be created with a size of 255
 
 char* getLastError() - return lastError
 
